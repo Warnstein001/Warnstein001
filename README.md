@@ -24,4 +24,4 @@
   <em>Developer • Student • Tech Enthusiast</em>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warnstein001)](https://github.com/anuraghazra/github-readme-stats)
