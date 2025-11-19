@@ -24,7 +24,18 @@
   <em>Developer • Student • Tech Enthusiast</em>
 </p>
 
-<!-- A B C -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warnstein001)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 语言占比 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warnstein001)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub 统计和语言统计 -->
+<div align="center">
+  <a href="https://github.com/Warnstein001">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Warnstein001&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Warnstein001&theme=default&include_all_commits=true&show_icons=true&hide_border=true&count_private=true">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Warnstein001&include_all_commits=true&show_icons=true&hide_border=true&count_private=true" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Warnstein001&theme=tokyonight&hide_border=true&layout=compact&langs_count=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Warnstein001&theme=default&hide_border=true&layout=compact&langs_count=6">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warnstein001&hide_border=true&layout=compact&langs_count=6" />
+    </picture>
+  </a>
+</div>
