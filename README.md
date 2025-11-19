@@ -24,13 +24,4 @@
   <em>Developer • Student • Tech Enthusiast</em>
 </p>
 
-<!-- 活动图表 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Warnstein001&theme=tokyo-night&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Warnstein001&theme=minimal&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Warnstein001&theme=github&hide_border=true&area=true" width="85%" />
-  </picture>
-</div>
-
 
