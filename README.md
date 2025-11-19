@@ -24,4 +24,7 @@
   <em>Developer • Student • Tech Enthusiast</em>
 </p>
 
+<!-- A B C -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warnstein001)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 语言占比 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warnstein001)](https://github.com/anuraghazra/github-readme-stats)
